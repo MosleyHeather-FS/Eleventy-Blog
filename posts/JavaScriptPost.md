@@ -1,12 +1,11 @@
 ---
-title: JavaScript is Love, JavaScript is Life
+title: JavaScript is Forever
 date: 2022-08-07
 tags:
   - JavaScript
-  - 
 layout: layouts/post.njk
 ---
-Javascript will be here forever. Much to my disappointment, or that's what I thought when I first got started. JavaScript is a beast of a language that isn't the easiest to master. When you do though? It makes life so much easier. Why? Because no matter what program you work in, which job you apply for, or what company you work for you will undoubtedly be using JavaScript. In fact, different articles online speculate it getting more popular in the future. According to Andre Reales from <a href="{{ 'https://www.becomebetterprogrammer.com/javascript-obsolete-and-future/' | url }">Become A Better Programmer</a>, "**JavaScript is not likely to become obsolete anytime soon. While newer languages are starting to gain traction, JavaScript will continue to dominate in web development. It’s a universal language that can be used for front-end and back-end development, making it an essential skill for developers.**". 
+Javascript will be here forever. Much to my disappointment, or that's what I thought when I first got started. JavaScript is a beast of a language that isn't the easiest to master. When you do though? It makes life so much easier. Why? Because no matter what program you work in, which job you apply for, or what company you work for you will undoubtedly be using JavaScript. In fact, different articles online speculate it getting more popular in the future. According to Andre Reales from [Become A Better Programmer](https://www.becomebetterprogrammer.com/javascript-obsolete-and-future/), **JavaScript is not likely to become obsolete anytime soon. While newer languages are starting to gain traction, JavaScript will continue to dominate in web development. It’s a universal language that can be used for front-end and back-end development, making it an essential skill for developers.**
 
 They go on to explain how JavaScript is so much more than just a language. It's the powerhouse of the internet that actually runs a lot of different video, gaming, and shopping based websites. Without JavaScript to run those machines none of those games or videos would work, and they are right. 
 
