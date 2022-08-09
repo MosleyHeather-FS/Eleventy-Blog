@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
+  "title": "My Memory Lane",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "My blog on Web Development",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "My blog on Web Development",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,8 +14,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Heather Mosley",
+    "email": "mosleyh@student.fullsail.edu",
     "url": "https://example.com/about-me/"
   }
 }

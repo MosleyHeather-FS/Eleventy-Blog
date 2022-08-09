@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+I'm a student at Fullsail University. In 11 more months you'll be looking at a graduate though!
